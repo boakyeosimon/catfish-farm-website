@@ -18,3 +18,18 @@ This is a simple web project designed to support catfish farm operations by pres
 - Git & GitHub
 
 ## 📁 Project Structure
+catfish-farm-website/
+│
+├── index.html
+├── style.css
+└── images/
+
+
+## 🔗 Status
+The current version is a prototype. Future versions may include:
+- Dynamic data updates
+- Integration with cloud platforms (AWS)
+
+## 👨‍💻 Author
+Simon Owusu Kofi Boakye  
+[LinkedIn](https://www.linkedin.com/in/simon-owusu-boakye) | [GitHub](https://github.com/boakyeosimon)
